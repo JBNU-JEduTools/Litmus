@@ -1,0 +1,3 @@
+generator: test.c
+test_cases:
+- points: 1
