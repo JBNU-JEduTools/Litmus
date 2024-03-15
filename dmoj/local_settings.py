@@ -127,7 +127,7 @@ SERVER_EMAIL = 'DMOJ: Modern Online Judge <hcpark.class@gmailcom>'
 # You must configure your webserver to serve this directory as /static/ in production.
 STATIC_ROOT = '/home/ubuntu/tmp/static'
 
-DMOJ_PROBLEM_DATA_ROOT = '/home/ubuntu/site/problem'
+DMOJ_PROBLEM_DATA_ROOT = '/home/ubuntu/problems'
 
 # URL to access static files.
 #STATIC_URL = '/static/'
