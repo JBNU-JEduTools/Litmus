@@ -9,11 +9,9 @@ Litmus는 SW 교육을 위한 JEduTools 의 일환으로,
 2024년 오픈소스(DMOJ) 를 기반으로 새롭게 리뉴얼하였습니다.
 
 
----
-DMOJ Git Repositories
+#### DMOJ Git Repositories
 
 Site: [https://github.com/DMOJ/online-judge](https://github.com/DMOJ/online-judge)
 
 Judge Server: [https://github.com/DMOJ/judge-server](https://github.com/DMOJ/judge-server)
 
----
