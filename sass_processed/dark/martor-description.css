@@ -15,7 +15,6 @@ form .martor-preview img {
 }
 
 form .martor-preview img.tex-full, form .martor-preview img.tex-image, form .martor-preview img.inline-math, form .martor-preview img.display-math {
-  -webkit-filter: invert(1) hue-rotate(180deg);
   filter: invert(1) hue-rotate(180deg);
 }
 
