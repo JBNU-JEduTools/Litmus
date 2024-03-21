@@ -95,7 +95,6 @@
 
             {% if print_case_output or case.extended_feedback %}
                 <tr id="{{ case.id }}-output" style="display:none" class="case-feedback toggled">
-                    {% if print_case_output %}
                         <td colspan="5" class="case-output">
                             <div class="case-info">
 				<!-- hcpark for issue #1 -->
@@ -108,7 +107,6 @@
 				<!-- hcpark for issue #1 -->
                             </div>
                         </td>
-                    {% endif %}
                     {% if case.extended_feedback %}
                         <td colspan="5" class="case-ext-feedback">
                             <div class="case-info">
